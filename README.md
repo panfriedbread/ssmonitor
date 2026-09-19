@@ -83,6 +83,9 @@ gradle build
 
 The built mod JAR is written to `build/libs/`.
 
+# This plugin will be rewritten
+I'll hire real devs to add more features that the all mighty Ethical AI's would never do
+
 ## License
 
 SS Monitor is licensed under the [MIT License](LICENSE.txt).
